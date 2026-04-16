@@ -23,11 +23,18 @@ Ranked partners based on delay performance
 Found the most popular destination city in the last 30 days
 
 Output Screenshots
+
 Delayed Shipments
 <img src="images/Delayed Shipments.png" width="500"/>
+
+
 Partner Performance
 <img src="images/Partners Performanace.png" width="500"/>
+
+
 Popular Destination
 <img src="images/Popular Destination.png" width="500"/>
+
+
 Partner Scorecard
 <img src="images/scorecard.png" width="500"/>
